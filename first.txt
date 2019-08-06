@@ -1,4 +1,4 @@
-<<<<<<< .minedsfgdsgf
+
 
 
 sdafasdf
@@ -11,6 +11,3 @@ dsfgdsg
 
 
 dgfdsgf
-
-34523466
->>>>>>> .theirs
